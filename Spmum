@@ -5,3 +5,5 @@ int c=0;
 void add()
 { c=a+b }
 printf(Addition of given no. =, c)
+output:
+c will be total of a + b
